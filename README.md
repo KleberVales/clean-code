@@ -16,3 +16,4 @@
 ## 14. Successive Reﬁnement
 ## 15. JUnit Internals
 ## 16. Refactoring SerialDate
+## 17. Smells and Heuristics
