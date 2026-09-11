@@ -7,3 +7,4 @@
 ## 5. Formatting
 ## 6. Objects and Data Structures
 ## 7. Error Handling
+## 8. Boundaries
